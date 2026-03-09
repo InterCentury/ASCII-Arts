@@ -1,3 +1,20 @@
+# ascii-art-collection
+
+A collection of ASCII art — free, open, and owned by no one.
+```
+Use         : Copy, paste, remix, or share any art without asking.
+Contribute  : Open a pull request. Add your art in a `.txt` file under `/art`.
+License     :MIT — do whatever you want.
+*No rights reserved. All art is public domain by choice.* 
+```
+
+
+
+
+
+
+
+
 ```
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
