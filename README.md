@@ -6,7 +6,9 @@ Use          : Copy, paste, remix, or share any art without asking.
 
 Contribute ->| fork the repo. 
              | add arts in the ASCII arts file just like how they're already there.
-             | maintain art allignment. Open a pull request.
+             | maintain art allignment. 
+             | Open a pull request.
+             | done!
 
 License      :MIT — do whatever you want.
 
