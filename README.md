@@ -2,11 +2,15 @@
 
 A collection of ASCII art — free, open, and owned by no one.
 ```
-Use         : Copy, paste, remix, or share any art without asking.
-Contribute  : fork the repo. add arts in the ASCII arts file just like how they're already there.
-              maintain art allignment. Open a pull request.
-License     :MIT — do whatever you want.
-*No rights reserved. All art is public domain by choice.* 
+Use          : Copy, paste, remix, or share any art without asking.
+
+Contribute ->| fork the repo. 
+             | add arts in the ASCII arts file just like how they're already there.
+             | maintain art allignment. Open a pull request.
+
+License      :MIT — do whatever you want.
+
+! No rights reserved. All art is public domain by choice. 
 ```
 
 
